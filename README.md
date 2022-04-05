@@ -9,5 +9,8 @@ Hello everyone, this script is essentially a Announcement Script using Ace Permi
 
 If you need any help or support feel free to Join my Discord: https://discord.gg/NZFP3Zq2JG.
 
+# Preview:
+> [Click Here](https://cdn.discordapp.com/attachments/892161530920075314/960711867649638430/Screenshot_2022-04-05_022515.png)
+
 **Current Version:**
 > **1.0.0**
