@@ -1,7 +1,8 @@
 local announce = "GS_Base.Jail"
 
 RegisterCommand("announce", function(source, args, rawCommand)
-    if IsPlayerAceAllowed(source, announce) then -- Example: add_ace group.staff "Zenox.Announce" allow
+    if IsPlayerAceAllowed(source, announce) -- Example: add_ace group.staff "Zenox.Announce" allow
+            then
         TriggerClientEvent('t-notify:client:Custom', -1, {
             style = 'info',
             duration = 20000, -- 20 Seconds
