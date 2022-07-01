@@ -1,0 +1,1 @@
+TriggerEvent('chat:addSuggestion', '/ann', 'Create a server announcement', {{name = 'Announcement', help = 'Type in your announcement message!'}})
