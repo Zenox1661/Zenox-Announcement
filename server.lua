@@ -1,6 +1,6 @@
 local announce = "Zenox.Announce"
 
-RegisterCommand("ann", function(source, args, rawCommand)
+RegisterCommand("ann", function(source, args, rawCommand) -- Please keep the command the same otherwise the chat message will break!
     if IsPlayerAceAllowed(source, announce) -- Example: add_ace group.staff "Zenox.Announce" allow
             then
         TriggerClientEvent('t-notify:client:Custom', -1, {
